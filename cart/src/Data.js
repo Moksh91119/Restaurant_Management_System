@@ -1,0 +1,58 @@
+let shopItemsData = [
+  {
+    id: "jfhgbvnscs",
+    name: "Mini Thali",
+    price: 50,
+    desc: "3 chapati, vegitable/dal, pickle.",
+    img: "cart/images_1/cart_item1.png",
+  },
+  {
+    id: "ioytrhndcv",
+    name: "Veg Thali",
+    price: 80,
+    desc: "3 chapati, vegitable, dal, rice, pickle.",
+    img: "cart/images_1/cart_item2.png",
+  },
+  {
+    id: "wuefbncxbsn",
+    name: "Vada Pav",
+    price: 30,
+    desc: "Bun With a Vada and chutney.",
+    img: "cart/images_1/cart_item3.png",
+  },
+  {
+    id: "thyfhcbcv",
+    name: "Pohe",
+    price: 30,
+    desc: "Indian breakfast of cooked, flattened rice.",
+    img: "cart/images_1/cart_item4.png",
+  },
+  {
+    id: "jfhgbvnscsy",
+    name: "Pav Bhaji",
+    price: 50,
+    desc: "Thick vegitable curry searved with pav.",
+    img: "cart/images_1/cart_item5.png",
+  },
+  {
+    id: "ioytrhndcvy",
+    name: "Masala Chai",
+    price: 30,
+    desc: "Mixed spice tea.",
+    img: "cart/images_1/cart_item6.png",
+  },
+  {
+    id: "wuefbncxbsny",
+    name: "Idli Sambhar",
+    price: 60,
+    desc: "Soft fluffy steamed cakes known as idli are served with curry.",
+    img: "cart/images_1/cart_item7.png",
+  },
+  {
+    id: "thyfhcbcvy",
+    name: "Samosa",
+    price: 20,
+    desc: "A fried South Asian pastry with a savoury filling,",
+    img: "cart/images_1/cart_item8.png",
+  },
+];
